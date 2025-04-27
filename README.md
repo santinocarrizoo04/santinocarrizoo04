@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://github.com/santinocarrizoo04" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=435&lines=Santino+Carrizo" alt="Typing SVG" />
+  </a>
+</h1>
 
-<!--
-**santinocarrizoo04/santinocarrizoo04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🚀 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=c,java,haskell,postman,rabbitmq,grafana,github,hibernate,idea,maven,vscode)](https://skillicons.dev)
+
+
+
+# 📚 Currently learning:
+
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,ruby,)](https://skillicons.dev)
+
+# 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santinocarrizoo04&show_icons=true&theme=tokyonight" alt="Santino's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santinocarrizoo04&layout=compact&theme=tokyonight" height="180"/>
+</div>
+
+---
+
+# 📫 Contact:
+
+- 📧 Email: santino.carrizo25@gmail.com
+- 💼 [LinkedIn](http://www.linkedin.com/in/santino-lautaro-carrizo-993308253)
+- 💻 [Mi GitHub](https://github.com/santinocarrizoo04)
+
