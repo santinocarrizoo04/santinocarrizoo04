@@ -25,5 +25,4 @@
 
 - 📧 Email: santino.carrizo25@gmail.com
 - 💼 [LinkedIn](http://www.linkedin.com/in/santino-lautaro-carrizo-993308253)
-- 💻 [Mi GitHub](https://github.com/santinocarrizoo04)
 
