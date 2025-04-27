@@ -7,13 +7,12 @@
 
 # 🚀 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,haskell,postman,rabbitmq,grafana,github,hibernate,idea,maven,vscode)](https://skillicons.dev)
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,java,python,haskell,postman,rabbitmq,grafana,github,hibernate,dbeaver,idea,virtualbox,maven,vscode,telegram)
 
 
 # 📚 Currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,ruby,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,ruby,rubymine,sqlserver)](https://skillicons.dev)
 
 # 📈 GitHub Stats
 
@@ -21,8 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=santinocarrizoo04&show_icons=true&theme=tokyonight" alt="Santino's GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santinocarrizoo04&layout=compact&theme=tokyonight" height="180"/>
 </div>
-
----
 
 # 📫 Contact:
 
