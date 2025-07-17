@@ -7,12 +7,12 @@
 
 # 🚀 Skills:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,java,python,haskell,postman,rabbitmq,grafana,github,hibernate,dbeaver,idea,virtualbox,maven,vscode,telegram)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,java,python,ruby,scala,haskell,postman,rabbitmq,grafana,github,hibernate,dbeaver,idea,virtualbox,maven,vscode,telegram)
 
 
 # 📚 Currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,ruby,rubymine,sqlserver)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux)](https://skillicons.dev)
 
 # 📈 GitHub Stats
 
