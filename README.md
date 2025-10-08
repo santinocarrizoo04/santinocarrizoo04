@@ -9,11 +9,6 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,java,python,ruby,scala,haskell,postman,rabbitmq,grafana,github,hibernate,dbeaver,idea,virtualbox,maven,vscode,telegram)
 
-
-# 📚 Currently learning:
-
-[![My Skills](https://skillicons.dev/icons?i=docker,linux)](https://skillicons.dev)
-
 # 📈 GitHub Stats
 
 <div align="center">
