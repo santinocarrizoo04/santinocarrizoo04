@@ -9,13 +9,6 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,java,python,ruby,scala,haskell,postman,rabbitmq,grafana,github,hibernate,dbeaver,idea,virtualbox,maven,vscode,telegram)
 
-# 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santinocarrizoo04&show_icons=true&theme=tokyonight" alt="Santino's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santinocarrizoo04&layout=compact&theme=tokyonight" height="180"/>
-</div>
-
 # 📫 Contact:
 
 - 📧 Email: santino.carrizo25@gmail.com
